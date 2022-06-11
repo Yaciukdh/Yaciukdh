@@ -5,12 +5,12 @@
    * Dynamic programming problems
    * Networking, my proudest college project was being the arcitect and main contributer to https://github.com/Yaciukdh/proj532
      * A close second is my distributed calender app, although it is kinda spagetti. It's written with a Paxos backbone: https://github.com/Yaciukdh/RandomPythonCode/tree/master/distPyth
- * Multithreading and parallel algorithms
- * High performance computing, I love learning how to make programs run as fast as possible
+   * Multithreading and parallel algorithms
+   * High performance computing, I love learning how to make programs run as fast as possible
 - 🌱 I’m currently learning ...
-* The requirements for whatever job looks the coolest.
+  * The requirements for whatever job looks the coolest.
 - 📫 How to reach me ... 
-* if you're here, you have my contact info. 
+  * if you're here, you have my contact info. 
 
 <!---
 Yaciukdh/Yaciukdh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
