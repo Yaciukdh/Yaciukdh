@@ -6,7 +6,7 @@
    * Networking, my proudest college project was being the arcitect and main contributer to https://github.com/Yaciukdh/proj532
      * A close second is my distributed calender app, although it is kinda spagetti. It's written with a Paxos backbone: https://github.com/Yaciukdh/RandomPythonCode/tree/master/distPyth
    * Multithreading and parallel algorithms
-   * High performance computing, I love learning how to make programs run as fast as possible
+   * High performance computing, I love learning how to make programs run fast
 - 🌱 I’m currently learning ...
   * The requirements for whatever job looks the coolest.
 - 📫 How to reach me ... 
